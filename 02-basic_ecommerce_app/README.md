@@ -1,16 +1,32 @@
-# basic_ecommerce_flutter_app
+# 🛒 Basic E-Commerce Flutter App
 
-A new Flutter project.
+A simple yet functional **Flutter e-commerce demo app** where users can browse products, filter them, add items to the cart, and manage cart items.  
+Built with **Provider** for state management and a clean UI inspired by modern shopping apps.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 **Product Listing** with filtering options (brand, size, etc.)  
+- 🛍 **Product Details Page** with images and available sizes  
+- 🛒 **Cart Page** with add/remove functionality  
+- 🎨 Custom **theme & colors** for a consistent look  
+- 📱 **Bottom Navigation Bar** with Home & Cart tabs  
+- ⚡ State management with **Provider package**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshot
+
+![App Screenshot](screenshots/1.jpeg)
+![App Screenshot](screenshots/2.jpeg)
+![App Screenshot](screenshots/3.jpeg)
+![App Screenshot](screenshots/4.jpeg)
+
+## 🛠️ Tech Stack
+
+- [Flutter](https://flutter.dev/) (UI framework)  
+- [Dart](https://dart.dev/) (language)  
+- [Provider](https://pub.dev/packages/provider) (state management)  
+- [Google Fonts](https://pub.dev/packages/google_fonts) (typography)  
