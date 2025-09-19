@@ -8,6 +8,8 @@ This repo is my hands-on journey through Flutter basics, UI design, state manage
 ## 📌 What's inside?
 Some of the things you’ll find here:
 - 🛒 **Basic Ecommerce App** – product listing, cart, Provider state management
+-  🏦 **Bankee UI Kit** – Multiples UI screens
+-   ☁ **Basic Weather app** – fetching data from api
 - 🎨 **UI Experiments** – custom theming, fonts, borders, layouts
 - 🧩 **Widgets Practice** – ListView, BottomNavigationBar, Chips, TextFields, etc.
 - ⚡ **State Management** – Provider examples (adding/removing from cart, etc.)
@@ -32,15 +34,19 @@ Some of the things you’ll find here:
 
 ## 📷 Screenshots
 
-- Basic Weather App
-![App Screenshot](01-weather-app/screenshots/weather_app.jpeg)
+- Bankee UI Kit
+![App Screenshot](03-bankee_ui/screenshots/screens.png)
 
 - Basic Ecommerence App
 ![App Screenshot](02-basic_ecommerce_app/screenshots/1.jpeg)
 ![App Screenshot](02-basic_ecommerce_app/screenshots/2.jpeg)
 ![App Screenshot](02-basic_ecommerce_app/screenshots/3.jpeg)
 ![App Screenshot](02-basic_ecommerce_app/screenshots/4.jpeg)
----
+
+- Basic Weather App
+![App Screenshot](01-weather-app/screenshots/weather_app.jpeg)
+
+
 
 ## 📚 How to Run
 1. Clone this repo  
